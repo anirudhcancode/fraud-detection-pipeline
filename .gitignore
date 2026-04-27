@@ -5,5 +5,4 @@ __pycache__/
 data/
 *.csv
 *.parquet
-models/*.pkl
 .DS_Store
